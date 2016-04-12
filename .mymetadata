@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="com-byteslounge-websockets"
+  id="myeclipse.1460357875751"
+  context-root="/com-byteslounge-websockets"
+  j2ee-spec="1.7"
+  archive="com-byteslounge-websockets.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
